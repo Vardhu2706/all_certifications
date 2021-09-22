@@ -10,7 +10,6 @@
 | | | 
 |:--------------------------|:--------------------------|
 |<img width="320" alt="cert" src="https://raw.githubusercontent.com/Vardhu2706/all_certifications/master/certs/M001.jpg"> <p>**Title:** M001 - MongoDB Basics<br />**[Course Link](https://university.mongodb.com/courses/M001/about)**<br />**[Verify](https://university.mongodb.com/course_completion/6146c4f5-1bd7-47ca-baec-70dfc4fa935c)**</p> | <img width="320" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Vardhu2706/all_certifications/master/certs/M103.jpg"> <p>**Title:** M103 - Basic Cluster Administration<br />**[Course Link](https://university.mongodb.com/courses/M103/about)**<br />**[Verify](https://university.mongodb.com/course_completion/d208dd3a-8ce8-401d-b278-812acad529f4)**</p> |
-<!-- 
 
 
 ## freeCodeCamp Certifications
